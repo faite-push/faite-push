@@ -11,7 +11,7 @@ Atualmente focado no ecossistema **frontend** com React/Next.js e **backend** co
   <img src="https://skillicons.dev/icons?i=discord,discordjs,github,postman,figma,devto" />
 </div>
 
-## 📫 Como entrar em contato?
+## 📫 Como entrar em contato
 
 <div align="center">
   <a href="mailto:fight.develouper@gmail.com">
