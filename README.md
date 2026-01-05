@@ -1,9 +1,10 @@
-# 👋 Olá! Sou o About Develouper
+# 👋 Hi! I'm Walison Amorim
 
-Desenvolvedor em início de carreira, apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados.  
-Atualmente focado no ecossistema **frontend** com React/Next.js e **backend** com Node.js (inclusive bots do Discord 🤖).
+Early-career developer passionate about technology, always seeking new challenges and learning opportunities.
 
-## 🚀 Tecnologias que domino e utilizo
+Currently focused on the **frontend** ecosystem with React/Next.js and **backend** with Node.js (including Discord bots 🤖).
+
+## 🚀 Technologies I master and use
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" /><br/><br/>
@@ -11,7 +12,7 @@ Atualmente focado no ecossistema **frontend** com React/Next.js e **backend** co
   <img src="https://skillicons.dev/icons?i=discord,discordjs,github,postman,figma,devto" />
 </div>
 
-## 📫 Como entrar em contato
+## 📫 How to reach me
 
 <div align="center">
   <a href="mailto:fight.develouper@gmail.com">
@@ -24,10 +25,15 @@ Atualmente focado no ecossistema **frontend** com React/Next.js e **backend** co
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AboutDevelouper&color=blueviolet&style=flat-square&label=VISITAS+NO+PERFIL" alt="Profile views"/>
-</div>
-
-<div align="center">
-  <code>< About Develouper /></code>
-</div>
+const develouper = {
+  pronouns: "he" | "him",
+  code: ["Javascript", "Typescript", "HTML", "CSS"],
+  tools: ["React", "Next.js", "Node.js", "Express", "Prisma", "Tailwind", "Vite", "Docker"],
+  currentFocus: "Building awesome web apps (frontend + backend)",
+  funFact: "Powered solely by coffee ☕",
+  challenge: "Coding websites and web apps all day, fueled only by coffee",
+  communities: {
+    discord: "Building bots 🤖",
+    openSource: "Contributing whenever I can"
+  }
+};
