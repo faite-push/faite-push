@@ -11,17 +11,6 @@ Atualmente focado no ecossistema **frontend** com React/Next.js e **backend** co
   <img src="https://skillicons.dev/icons?i=discord,discordjs,github,postman,figma,devto" />
 </div>
 
-## 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AboutDevelouper&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AboutDevelouper&layout=compact&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AboutDevelouper&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 ## 📫 Como entrar em contato
 
 <div align="center">
